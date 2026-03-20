@@ -7,13 +7,13 @@ padding:0,5;
 
 header{
 background:#f0fdc9;
-color:white;
+color:red;
 text-align:center;
 padding:40px;
 }
 
 section{
-background:red;
+background:lime green;
 margin:20px;
 padding:20px;
 border-radius:10px;
