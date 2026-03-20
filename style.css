@@ -1,13 +1,13 @@
 body{
 font-family: Arial, Helvetica, sans-serif;
-background-color:#f0fdc9;
+background-color:#3c4b0e;
 margin:1;
 padding:0,5;
 }
 
 header{ /* título */
 background:#013001;
-color:rgb(0, 0, 0);
+color:rgb(179, 207, 179);
 text-align:center;
 padding:40px;
 }
